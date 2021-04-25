@@ -1,24 +1,13 @@
 # lanche-unidac
 
-## Project setup
-```
-npm install
-```
+## Desafio Unidac
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Deploy do front em  - https://unidac-front.herokuapp.com
 
-### Compiles and minifies for production
-```
-npm run build
-```
+GitHUB do front em - https://github.com/eevaristo/unidac-front
 
-### Lints and fixes files
-```
-npm run lint
-```
+API Java REST - https://unidac.herokuapp.com/swagger-ui.html
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+GitHub API - https://github.com/eevaristo/desafio-unidac
+
+
