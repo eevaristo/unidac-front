@@ -16,7 +16,7 @@
       </ul>
 
 
-      <form @submit.prevent="salvar">
+      <form @submit="salvar">
 
           <label>Nome</label>
           <input type="text" placeholder="Nome" v-model="lanche.nm_func" >
